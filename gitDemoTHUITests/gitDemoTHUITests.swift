@@ -4,7 +4,7 @@
 //
 //  Created by Nathan Barnes on 18/08/2016.
 //  Copyright © 2016 Nathan Barnes. All rights reserved.
-//
+//  Changed
 
 import XCTest
 
